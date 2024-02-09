@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sewera/static/css/main.dba95009.css",
+    "main.js": "/sewera/static/js/main.1ab0098e.js",
+    "static/media/quran_PNG34.png": "/sewera/static/media/quran_PNG34.ce4bee56f486a7e034db.png",
+    "static/media/hero-bg.jpg": "/sewera/static/media/hero-bg.dc54a2300ba4263c5296.jpg",
+    "static/media/IMG-20240204-WA0007.jpg": "/sewera/static/media/IMG-20240204-WA0007.f05401e9dbfbf120ecf8.jpg",
+    "static/media/doaa.jpg": "/sewera/static/media/doaa.7dfad2650fdd222d69eb.jpg",
+    "index.html": "/sewera/index.html",
+    "main.dba95009.css.map": "/sewera/static/css/main.dba95009.css.map",
+    "main.1ab0098e.js.map": "/sewera/static/js/main.1ab0098e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba95009.css",
+    "static/js/main.1ab0098e.js"
+  ]
+}
